@@ -3,3 +3,7 @@ It creates .git dir. Time pass.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It lets you choose what to commit at a time.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Adding files to staging area belonging to one logical commit at a time
+
