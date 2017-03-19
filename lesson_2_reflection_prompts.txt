@@ -9,3 +9,12 @@ Adding files to staging area belonging to one logical commit at a time
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Helps work on experimental and different version of files.
+
+How do the diagrams help you visualize the branch structure?
+Helps get a better understanding of commits of various branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Combined changes of both branches. To make it easier to understand.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git auto merges mostly and informs us only when there is conflict but manually would be tedious and error prone.
